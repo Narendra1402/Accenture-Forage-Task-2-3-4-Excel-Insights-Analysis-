@@ -7,5 +7,6 @@
 ✅ Best practices for data cleaning and transformation for accurate reporting ⚡
 ✅ Real-world case studies and interactive exercises to apply your skills 🚀
 
+![Your paragraph text](https://github.com/user-attachments/assets/1fbd669a-77ae-4bbd-a895-93823ec90a93)
 
 #DataAnalytics #FreeInternship #Accenture #PowerBI #DataVisualization #BusinessIntelligence #YouTubeAnalytics
